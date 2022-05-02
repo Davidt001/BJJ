@@ -26,6 +26,7 @@ h1, h1 {
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 30px;
 }
 
 #menu {
@@ -186,3 +187,7 @@ footer {
     color: black;
     padding: 40px;
 }  
+
+.heading {
+    text-align: center;
+}
