@@ -174,3 +174,15 @@ footer {
     background-color: #fafafa;
     color: #f16c6b;
 }
+
+#center {
+    text-align: center;
+    border: 3px solid green;
+  }
+
+.details {
+    background-color: rgb(202, 139, 29);
+    text-align: center;
+    color: black;
+    padding: 40px;
+}  
