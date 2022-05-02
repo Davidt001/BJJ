@@ -87,16 +87,20 @@ h1, h1 {
       }
 }
 
-@media (max-width: 650px) {
+@media (max-width: 450px) {
     body {
       display: block;
-      font-size: 80%;
+      font-size: 50%;
     }
     p {
       position: relative;
       margin: -3rem 0 2rem 1rem;
       padding: 1rem;
       background: rgba(white, 0.8);
+      font-size: 50%;
+    }
+    header {
+        font-size: 50%;
     }
   }
 
