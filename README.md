@@ -14,14 +14,14 @@ BJJ Ireland is a site for a martial arts acadamy that gives users some informati
   - There is an indentical navigation bar on all three pages that includes links to the Logo, Home page, Contact page and Sign Up page to allow for easy navigation.
   - The purpose on the Navigation bar is to allow users to easily navigate to any of the pages using any device without having to press the back button to revert to previous pages. It also shows a bottom border on hover when selecting a new page as well as a black border to allow users to know which page they are currently on.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](/assets/docs/Navigation.png)
 
 - __The Homepage__ 
 
   - The home page is a welcome page that includes a a grid of 3 images with text to the right side of them. The purpose of this is to provide an overview of what the martial art is, what the aim of the club is, who the club is run by and when class times are. 
 
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](/assets/docs/Homepage.png)
 
 - 
 
@@ -33,20 +33,20 @@ BJJ Ireland is a site for a martial arts acadamy that gives users some informati
 - The footer section includes links via social icons to all of the connected social media sites for BJJ Ireland. The links in a new tab to allow easy navigation for the user, without having to press the back key to go back to the website.
   - The footer is useful to the user as they can view the social media platforms to see more images and videos to get more of a feel for the martial arts acadamy. It also encourages engagement on social media which can help with SEO.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](/assets/docs/Footer.png)
 
 - __Contact Page__
 
   - The Contact Page provides an easy to read outline of how people can contact BJJ Ireland. It includes the phone number, email address and location to the club. It also includes a hyperlink for email so people can conveniently email the club with one click.
   - This section is valuable to the user as they will be able to easily see the available contact methods to get in touch and learn more about the club.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Contact](/assets/docs/Contact.png)
 
 - __The Sign Up Page__
 
   - The Sign Up Pages purpose is to allow people interested in joing the acadamy to input their name, email address and experience level so that they can begin training at the acadamy and receive more information through email from the club.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Sign Up](/assets/docs/Sign-UP.png)
 
 
 
