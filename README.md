@@ -90,13 +90,10 @@ BJJ Ireland is a site for a martial arts acadamy that gives users some informati
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+- For testing, I always had the preview open and would save and test that every feature worked. 
+- I tried the site in multiple browsers and devices to test for bugs and although it is not as responsive as I would have liked it is readable and worked on all browsers and devices.
+- I also had friends and family try on their respecive devices and found no bugs.
+- I used chrome and mozilla developer tools when making the site to test out different dimensions and units to use.
 
 
 ### Validator Testing 
