@@ -33,6 +33,10 @@ BJJ Ireland is a site for a martial arts acadamy that gives users some informati
     -   #### Typography
         -   The main fonts I used for this project were Montserrat and Oswald. Monterrat is considered an easy to read and streamlined font and Oswald is and impactful sans serif font and together they make a nice visual pairing.
 
+          -   #### Imagery
+        -   Imagery was important for this site for not only design reasong but also to explain what the martial art looks like as it is quite unlike other martial arts. The large, background image ont the signup page is designed to be eye-catching and pique the users interest. The grid on the homepage uses imagrry to try to visually explain to people what the martial art entails.
+
+
 
 ### Existing Features
 
