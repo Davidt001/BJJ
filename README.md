@@ -103,9 +103,6 @@ BJJ Ireland is a site for a martial arts acadamy that gives users some informati
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
 
-### Unfixed Bugs
-
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
 
 ## Deployment
 
