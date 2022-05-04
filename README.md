@@ -6,6 +6,33 @@ BJJ Ireland is a site for a martial arts acadamy that gives users some informati
 
 ## Features 
 
+## User Experience (UX)
+
+-   ### User stories
+
+    -   #### First Time Visitor Goals
+
+        1. As a First Time Visitor, I want to quickly understand what the site is about and get the information I need.
+        2. As a First Time Visitor, I want to be able to find the information I need as quickly as possible without any distractions such as pop ups or animations.
+        3. As a First Time Visitor, I want to see if this acadamy fits my goals.
+
+    -   #### Returning Visitor Goals
+
+        1. As a Returning Visitor, I want to be able to sign up online.
+        2. As a Returning Visitor, I want to be able to easily see how to contact the acadamy to make enquiries.
+        3. As a Returning Visitor, I want to be able to see the class times.
+
+    -   #### Frequent User Goals
+        1. As a Frequent User, I want to check if there is any updates to the timetable.
+        2. As a Frequent User, I want to be able to see the contact information quickly and clearly.
+        
+
+-   ### Design
+    -   #### Colour Scheme
+        -   The two main colours used are black and white for simplicity and clasic design.
+    -   #### Typography
+        -   The main fonts I used for this project were Montserrat and Oswald. Monterrat is considered an easy to read and streamlined font and Oswald is and impactful sans serif font and together they make a nice visual pairing.
+
 
 ### Existing Features
 
