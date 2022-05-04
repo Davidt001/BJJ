@@ -113,7 +113,7 @@ BJJ Ireland is a site for a martial arts acadamy that gives users some informati
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - 
+The live link can be found here -  https://davidt001.github.io/BJJ/
 
 
 ## Credits 
